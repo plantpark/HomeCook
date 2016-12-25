@@ -16,7 +16,7 @@ Your computer and mobile phone is in the same LAN ,and then configure your compu
 
 ### Launch The App
 
-![](‘img/IMG_2941.PNG’)
+![]('./img/IMG_2941.PNG')
 
 Before for launch of app , you need to disable the location service of Homocook . Then the app pop up a notifician show above, and press ‘手动搜索地址’. Disable of location service couldn’t send your location to the server automatic. So you will monitor it how to get your location and push the kitchen list near you. 
 
