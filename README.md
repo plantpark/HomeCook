@@ -65,12 +65,12 @@ Up to now , we almost finished half of the project . What we should do next is w
 Copy the header and content in form to a code editor , and formate it like the code shows below.
 
 
-![](img/Screen-Shot-2016-12-23-at-00.34.19.png)
+![](img/Screen-Shot-2016-12-23-at-00.42.19.png)
 The ‘url’ is the destination that app send requests to.  Headers and payload should a dict .Then import json and requests.  Send the requests! 
 
 Print the json code in a beautiful format with pprint function. The name and tags here are unicode characters so you can ensure the data by avg_price or_business_start. Or type in ‘print r.json()[’data’]()[’list’]()[’activity_tags_’](). The unicode characters will show up._
   
-![](img/Screen-Shot-2016-12-23-at-00.34.50.png)
+![](img/Screen-Shot-2016-12-23-at-00.30.50.png)
 
 Something you should notice here is the coordinate .If you change the address you put in step one , the coordinate will change too. The coordinate belongs to the address!
 
